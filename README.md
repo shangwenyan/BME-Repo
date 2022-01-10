@@ -1,3 +1,4 @@
 # BME-Repo
-Author: Shangwen Yan
-Organization: Duke University
+
+* Author: Shangwen Yan
+* Organization: Duke University
