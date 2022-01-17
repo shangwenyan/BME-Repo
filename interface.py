@@ -1,7 +1,7 @@
 def interface():
     keep_running = True
+    print("Blodd Test Analysis")
     while keep_running:
-        print("My Program")
         print("Options:")
         print("9 - Quit")
         choice = input("Enter your choice: ")
